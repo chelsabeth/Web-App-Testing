@@ -1,7 +1,8 @@
 // should be updated when the user records activity on the `Dashboard` component.
 import React, { useState } from "react";
+// import Display from "./Display";
 
-const Dashboard = () => {
+const Dashboard = () => {    
   return (
     <div className="buttons">
       <div className="home-buttons">
