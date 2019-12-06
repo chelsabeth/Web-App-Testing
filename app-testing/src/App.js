@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Play Ball! ⚾️</h1> 
+      <h1>Play Ball! <span>⚾️</span></h1> 
       <Dashboard/>
     </div>
   );
